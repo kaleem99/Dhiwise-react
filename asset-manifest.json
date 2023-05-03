@@ -1,17 +1,15 @@
 {
   "files": {
     "main.css": "/Dhiwise-react/static/css/main.16cea8e2.css",
-    "main.js": "/Dhiwise-react/static/js/main.356acb12.js",
-    "static/js/694.e692973d.chunk.js": "/Dhiwise-react/static/js/694.e692973d.chunk.js",
+    "main.js": "/Dhiwise-react/static/js/main.f72cd8c6.js",
     "static/media/RobotoRomanRegular.ttf": "/Dhiwise-react/static/media/RobotoRomanRegular.fc2b5060f7accec5cf74.ttf",
     "static/media/RobotoRomanBold.ttf": "/Dhiwise-react/static/media/RobotoRomanBold.f80816a5455d171f948d.ttf",
     "index.html": "/Dhiwise-react/index.html",
     "main.16cea8e2.css.map": "/Dhiwise-react/static/css/main.16cea8e2.css.map",
-    "main.356acb12.js.map": "/Dhiwise-react/static/js/main.356acb12.js.map",
-    "694.e692973d.chunk.js.map": "/Dhiwise-react/static/js/694.e692973d.chunk.js.map"
+    "main.f72cd8c6.js.map": "/Dhiwise-react/static/js/main.f72cd8c6.js.map"
   },
   "entrypoints": [
     "static/css/main.16cea8e2.css",
-    "static/js/main.356acb12.js"
+    "static/js/main.f72cd8c6.js"
   ]
 }
